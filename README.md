@@ -7,11 +7,11 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 **Please create a description for this project here**
 
 ## Credits
-| NPM           | Name        |
-| ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| NPM           | Name                       |  
+| ------------- |----------------------------|
+| 140810190008  | Daffa Anov Arkan Javier    |
+| 140810190046  | Akmal Syawqi Albar Syalal  |
+| 140810190060  | Alif Fachrel Anargya       |
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
