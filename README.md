@@ -10,7 +10,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | NPM           | Name                       |  
 | ------------- |----------------------------|
 | 140810190008  | Daffa Anov Arkan Javier    |
-| 140810190046  | Akmal Syawqi Albar Syalal  |
+| 140810190046  | Akmal Syawqi Albar         |
 | 140810190060  | Alif Fachrel Anargya       |
 
 ## Change log
