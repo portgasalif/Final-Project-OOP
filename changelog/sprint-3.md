@@ -1,24 +1,25 @@
 # Scrum Report (Sprint 3)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 2/12/2020 - 7/12/2020
 
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190008  | Daffa Anov  |
+| 140810190046  | Akmal Syawqi|
+| 140810190060  | Alif Fachrel|
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 3             | n             |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
+| 3.1 | Penyempurnaan penanganan error |Anov | Proses |
+| 3.2 | Penyempurnaan desain dari TicTacToe | Alif | Proses |
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Akmal | Proses |
 
 ## Retrospective 
 
