@@ -14,13 +14,16 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | 140810190060  | Alif Fachrel Anargya       |
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
-   - Short changes 2
+- **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
+   -  Diskusi tentang pembagian kerja project
+   -  Menelusuri Tentang game tic tac toe 
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) - (18/11/2020 - 24/11/2020)** 
+   - Membuat JFrame untuk TicTacToe
+   - Membuat Tulisan untuk mengetahui giliran pemain
+   - Membuat panel 3x3
+   - Membuat Player 1(X) dan 2(O)
+   
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    - Short changes 1
