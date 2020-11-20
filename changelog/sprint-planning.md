@@ -13,10 +13,10 @@
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Membuat JFrame untuk TicTacToe | Jane Doe | 
-| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | John Doe | 
-| 1.3 | Membuat panel 3x3 | John Doe | 
-| 1.4 | Membuat Player 1 dan 2 | John Doe | 
+| 1.1 | Membuat JFrame untuk TicTacToe | Akmal | 
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif | 
+| 1.3 | Membuat panel 3x3 | Alif | 
+| 1.4 | Membuat Player 1(X) dan 2(O) | Daffa | 
 
 
 ## Retrospective 
