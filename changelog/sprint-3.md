@@ -1,7 +1,7 @@
 # Scrum Report (Sprint 3)
 | From 2/12/2020 - 7/12/2020
 
-## Team (Insert your name)
+## Team (Anomali)
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810190008  | Daffa Anov  |
