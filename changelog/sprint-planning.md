@@ -8,18 +8,15 @@
 | 140810190046  | Akmal Syawqi|
 | 140810190060  | Alif Fachrel|
 
-## Sprint Backlog Keseluruhan 
-| ID  | Title/Desc | Asignee | 
-| --- | ---------- | ------- | 
-| 1.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 1.1 | Membuat JFrame untuk TicTacToe | Jane Doe | 
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | John Doe | 
+| 1.3 | Membuat panel 3x3 | John Doe | 
+| 1.4 | Membuat Player 1 dan 2 | John Doe | 
+
 
 ## Retrospective 
-
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
