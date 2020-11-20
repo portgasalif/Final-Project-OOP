@@ -1,7 +1,7 @@
 # Scrum Report (Sprint 1)
 | From 18/11/2020 - 24/11/2020
 
-## Team (Insert your name)
+## Team (Anomali)
 | NPM           | Name        |
 | ------------- |-------------|
 | 1408101900008 | Anov        |
