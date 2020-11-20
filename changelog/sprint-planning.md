@@ -1,7 +1,7 @@
 # Sprint Planning 
 | 18/11/2020
 
-### Team (Insert your name)
+### Team (Anomali)
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810190008  | Daffa Anov  |
