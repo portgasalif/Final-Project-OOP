@@ -17,10 +17,10 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ | 
-| 1.1 | Membuat JFrame untuk TicTacToe | Akmal | 
-| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif | 
-| 1.3 | Membuat panel 3x3 | Alif | 
-| 1.4 | Membuat Player 1(X) dan 2(O) | Anov | 
+| 1.1 | Membuat JFrame untuk TicTacToe | Akmal |  Done |
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif |  Failed |
+| 1.3 | Membuat panel 3x3 | Alif |  Done |
+| 1.4 | Membuat Player 1(X) dan 2(O) | Anov |  Done |
 
 ## Retrospective 
 
