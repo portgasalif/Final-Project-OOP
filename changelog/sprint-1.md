@@ -1,5 +1,5 @@
 # Scrum Report (Sprint 1)
-| From 18/11/2020 - 24/11/2020
+ From 18/11/2020 - 24/11/2020
 
 ## Team (Anomali)
 | NPM           | Name        |
@@ -15,8 +15,8 @@
 
 ## Sprint 1 Backlog
 
-| ID  | Title/Desc | Asignee | 
-| --- | ---------- | ------- | 
+| ID  | Title/Desc | Asignee | Status |
+| --- | ---------- | ------- | ------ | 
 | 1.1 | Membuat JFrame untuk TicTacToe | Akmal | 
 | 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif | 
 | 1.3 | Membuat panel 3x3 | Alif | 
