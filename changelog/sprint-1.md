@@ -4,7 +4,7 @@
 ## Team (Anomali)
 | NPM           | Name        |
 | ------------- |-------------|
-| 1408101900008 | Anov        |
+| 140810190008 | Anov        |
 | 140810190046  | Akmal       |
 | 140810190060  | Alif        |
 
@@ -17,10 +17,10 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ | 
-| 1.1 | Membuat JFrame untuk TicTacToe | Akmal |  Done |
-| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif |  Failed |
-| 1.3 | Membuat panel 3x3 | Alif |  Done |
-| 1.4 | Membuat Player 1(X) dan 2(O) | Anov |  Done |
+| 1.1 | Membuat JFrame untuk TicTacToe | Akmal | 
+| 1.2 | Membuat Tulisan untuk mengetahui giliran pemain | Alif | 
+| 1.3 | Membuat panel 3x3 | Alif | 
+| 1.4 | Membuat Player 1(X) dan 2(O) | Anov | 
 
 ## Retrospective 
 
