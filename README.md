@@ -26,12 +26,17 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+   - Membuat Fungsi pergantian pemain
+   - Membuat Fungsi Score pemenang
+   - Membuat Fungsi panel 3x3
+   - Membuat Fungsi tombol reset
+   - Membuat Fungsi tombol exit
+   - Membuat Fungsi aturan permainan
    
 - **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+   - Penyempurnaan penanganan error
+   - Penyempurnaan desain dari TicTacToeShort changes 2
+   - Penyempurnaan desain dari TicTacToe
 
 ## Running The App
 
