@@ -17,7 +17,7 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Fungsi pergantian pemain | Anov | Failed |
+| 2.1 | Membuat Fungsi pergantian pemain | Anov | Done |
 | 2.2 | Membuat Fungsi Score pemenang | Anov | Failed |
 | 2.3 | Membuat Fungsi panel 3x3 | Alif | Done |
 | 2.4 | Membuat Fungsi tombol reset | Alif | Failed |
