@@ -22,7 +22,7 @@
 | 2.3 | Membuat Fungsi panel 3x3 | Alif | Done |
 | 2.4 | Membuat Fungsi tombol reset | Alif | Failed |
 | 2.5 | Membuat Fungsi tombol exit | Akmal| Failed |
-| 2.6 | Membuat Fungsi aturan permainan | Akmal | Failed |
+| 2.6 | Membuat Fungsi aturan permainan | Akmal | Done |
 
 ## Retrospective 
 
