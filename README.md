@@ -25,7 +25,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Membuat Player 1(X) dan 2(O)
    
 
-- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
+- **[Sprint 2](changelog/sprint-2.md) - (25/11/2020 - 01/12/2020)** 
    - Membuat Fungsi pergantian pemain
    - Membuat Fungsi Score pemenang
    - Membuat Fungsi panel 3x3
