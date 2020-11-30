@@ -17,12 +17,12 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Membuat Fungsi pergantian pemain | Anov | Proses |
-| 2.2 | Membuat Fungsi Score pemenang | Anov | Proses |
-| 2.3 | Membuat Fungsi panel 3x3 | Alif | Proses |
-| 2.4 | Membuat Fungsi tombol reset | Alif | Proses |
-| 2.5 | Membuat Fungsi tombol exit | Akmal| Proses |
-| 2.6 | Membuat Fungsi aturan permainan | Akmal | Proses |
+| 2.1 | Membuat Fungsi pergantian pemain | Anov | Done |
+| 2.2 | Membuat Fungsi Score pemenang | Anov | Failed |
+| 2.3 | Membuat Fungsi panel 3x3 | Alif | Done |
+| 2.4 | Membuat Fungsi tombol reset | Alif | Failed |
+| 2.5 | Membuat Fungsi tombol exit | Akmal| Failed |
+| 2.6 | Membuat Fungsi aturan permainan | Akmal | Done|
 
 ## Retrospective 
 
