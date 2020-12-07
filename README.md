@@ -39,7 +39,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Penyempurnaan desain dari TicTacToe
 
 ## Running The App
-Untuk menjalankan cukup dengan mencompile terlebih dahulu Control.java dan ketik java control di command line.
+Untuk menjalankan cukup dengan mencompile terlebih dahulu main.java dan ketik java control di command line.
 Lalu tinggal mainkan saja gamenya. Selamat mencoba
 
 ## Classes Used
