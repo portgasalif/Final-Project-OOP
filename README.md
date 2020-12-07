@@ -40,8 +40,8 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 ## Running The App
    - buka command di folder src
-   - compile file dengan perintah "javac main.java"
-   - run dengan perintah "java main"
+   - compile file dengan perintah "javac Tictactoe.java"
+   - run dengan perintah "java Tictactoe"
 
 ## Classes Used
 
