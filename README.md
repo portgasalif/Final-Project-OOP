@@ -33,7 +33,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    - Membuat Fungsi tombol exit
    - Membuat Fungsi aturan permainan
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
+- **[Sprint 3](changelog/sprint-3.md) - (02/12/2020 - 07/12/2020)** 
    - Penyempurnaan penanganan error
    - Penyempurnaan desain dari TicTacToeShort changes 2
    - Penyempurnaan desain dari TicTacToe
