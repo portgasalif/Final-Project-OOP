@@ -11,17 +11,17 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 3             | n             |
+| 3             | 3             |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Penyempurnaan penanganan error |Anov | Proses |
-| 3.2 | Penyempurnaan desain dari TicTacToe | Alif | Proses |
-| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Akmal | Proses |
+| 3.1 | Penyempurnaan penanganan error |Anov | Done |
+| 3.2 | Penyempurnaan desain dari TicTacToe | Alif | Done |
+| 3.3 | Penyempurnaan final dari codingan game TicTacToe | Akmal | Done |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
