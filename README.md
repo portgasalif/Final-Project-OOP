@@ -50,4 +50,10 @@ UML image here
 
 ## Notable Assumption and Design App Details
 
-TO;DO
+- Membuat frame panel 3x3.
+- Membuat giliran X atau O.
+- Mengubah isi panel menjadi X atau O sesuai giliran dengan berusaha membentuk garis horizontal ATAU vertikal ATAU diagonal sesuai peraturan tictactoe.
+- Setelah salah satu kondisi diatas terpenuhi, maka player yang membentuk garis akan menjadi pemenang, dan ditampilkan dilayar serta dihitung scorenya.
+- Jika kotak sudah terisi penuh dan tidak ada player yang bisa membentuk garis, permainan berakhir dan seri.
+- player bisa merestart game ketika game sudah selesai.
+- palyer bisa memencet "exit" jika ingin keluar dari game.
